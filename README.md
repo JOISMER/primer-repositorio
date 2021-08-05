@@ -1,0 +1,2 @@
+# primer-repositorio
+aprendiendo githuB
